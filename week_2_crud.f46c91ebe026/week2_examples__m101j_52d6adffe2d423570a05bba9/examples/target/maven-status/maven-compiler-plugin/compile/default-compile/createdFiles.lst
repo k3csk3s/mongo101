@@ -1,0 +1,13 @@
+com\mongodb\m101j\crud\FindWithFilterTest.class
+com\mongodb\m101j\crud\InsertTest.class
+com\mongodb\m101j\crud\DocumentTest.class
+com\mongodb\m101j\crud\FindWithProjectionTest.class
+com\mongodb\m101j\crud\App.class
+com\mongodb\m101j\crud\FindWithSortSkipLimitTest.class
+com\mongodb\m101j\spark\HelloWorldMongoDBSparkFreemarkerStyle$1.class
+com\mongodb\m101j\crud\UpdateTest.class
+com\mongodb\m101j\spark\HelloWorldMongoDBSparkFreemarkerStyle.class
+com\mongodb\m101j\crud\FindTest.class
+com\mongodb\m101j\util\Helpers.class
+com\mongodb\m101j\crud\DeleteTest.class
+.netbeans_automatic_build
